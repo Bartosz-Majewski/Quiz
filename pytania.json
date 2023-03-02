@@ -1,0 +1,27 @@
+[
+    {
+        "question": "Wskaż najpopularniejszą odpowiedź na pytanie: Produkt mleczny z bakteriami?",
+        "answers" : ["jogurt","kefir","zsiadłe mleko","maślanka"],
+        "right_answer": "b"
+    },
+
+    {
+        "question": "Na jaką literę zaczyna się dzień tygodnia, w którego nazwie jest najmniej samogłosek?",
+        "answers" : ["s","n","p","c"],
+        "right_answer": "d"
+    },
+
+    {
+        "question": "Drzwi, których skrzydło przy otwieraniu obraca się zgodnie z ruchem wskazówek zegara, to zgodnie z normą:",
+        "answers" : ["drzwi lewe","drzwi prawe"],
+        "right_answer": "a"
+    },
+
+    {
+        "question": "Fryderyk Chopin jest pochowany:",
+        "answers" : ["w Wilnie","w Krakowie","w Paryżu"],
+        "right_answer": "c"
+    }
+   
+
+]
